@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Pedro Della Rocca</h1>
-<h3 align="center">A passionate web developer from Brazil</h3>
+<h3 align="center">A passionate web developer from Brazil, studying internet systems at the Federal Institute of Brasilia</h3>
 
 - 🌱 I’m currently learning **Kotlin and Spring**
 
