@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Kotlin, Spring Boot and Docker**
 
-- 💬 Ask me about **react, css(tailwind Sass)**
+- 💬 Ask me about **HTML, CSS(tailwind Sass), React**
 
 - 📫 How to reach me **jpdellarocca@gmail.com**
 
